@@ -1,0 +1,12 @@
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\bin\Debug\ClearSCADA_Utilities.exe
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\bin\Debug\ClearSCADA_Utilities.pdb
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\bin\Debug\ClearScada.Client.dll
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\ClearSCADA_Utilities.Form1.resources
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\ClearSCADA_Utilities.Properties.Resources.resources
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\ClearSCADA_Utilities.exe
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\obj\x86\Debug\ClearSCADA_Utilities.pdb
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\bin\Debug\ClearScada.Core.dll
+c:\users\josephs\documents\visual studio 2010\Projects\ClearSCADA_Utilities\ClearSCADA_Utilities\bin\Debug\NLog.dll
